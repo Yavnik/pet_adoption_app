@@ -16,31 +16,31 @@ The app has the following features:
 
 *Home Screen - Option to filter animals based on categories. List of pet has pagination support, when user scrolls to the end of screen only then more animals are loaded.*
 
-![Alt text](screenshots/home_screen.jpg "Home Screen")
+<img src="screenshots/home_screen.jpg" width="300">
 
 *Pet Search Screen - Pets can be searched by name.*
 
-![Alt text](screenshots/search_screen.jpg "Search Screen")
+<img src="screenshots/search_screen.jpg" width="300">
 
 *Pet Details Screen*
 
-![Alt text](screenshots/pet_details_screen.jpg "Pet Details Screen")
+<img src="screenshots/pet_details_screen.jpg" width="300">
 
 *Adoption Confirmation Screen with Confetti animation*
 
-![Alt text](screenshots/congratulations_screen.jpg "Congratulations Screen")
+<img src="screenshots/congratulations_screen.jpg" width="300">
 
 *Home Screen with Adopted pets greyed out*
 
-![Alt text](screenshots/adoption_confirmation_screen.jpg "Adoption Confirmation Screen")
+<img src="screenshots/adoption_confirmation_screen.jpg" width="300">
 
 *Adoption History Screen*
 
-![Alt text](screenshots/adoption_history_screen.jpg "Adoption History Screen")
+<img src="screenshots/adoption_history_screen.jpg" width="300">
 
 *Dark Mode*
 
-![Alt text](screenshots/dark_mode.jpg "Dark Mode")
+<img src="screenshots/dark_mode.jpg" width="300">
 
 ## Domain Driven Design
 
