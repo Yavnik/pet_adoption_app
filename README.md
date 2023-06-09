@@ -12,6 +12,8 @@ The app has the following features:
 - Save pet adoption history.
 - Contact pet shelters and rescue organizations.
 
+UI Inspiration from the awesome designers at CMARIX Technolabs (https://www.behance.net/gallery/163362473/Pet-Adoption-App-Design).
+
 ### Screenshots
 
 *Home Screen - Option to filter animals based on categories. List of pet has pagination support, when user scrolls to the end of screen only then more animals are loaded.*
