@@ -66,6 +66,7 @@ The app has been built using Domain Driven Design (DDD). DDD is a software devel
 To run the app, you will need to have Flutter installed on your machine. Clone the repository and run the following command in the project directory:
 
 ```bash
+flutter pub run build_runner build --delete-conflicting-outputs
 flutter run
 ```
 
